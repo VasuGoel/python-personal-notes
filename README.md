@@ -49,18 +49,18 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 #### 2. Using python to run the scripts/programs in the cloned repository
 
-* Unzip the repository downloaded from https://github.com/VasuGoel/coursera-py4e
+* Unzip the repository downloaded from https://github.com/VasuGoel/python
 
 * Open terminal, change your directory to point to coursera-py4e folder. Assuming the repository downloaded in your Downloads folder.
 ```
-cd ~/Downloads/coursera-py4e
+cd ~/Downloads/python
 ```
 * Pick a specific week and cd into it, like
 ```
-cd week7/
+cd 5.\ Strings/
 ```
 
 * Run any program in that particular week, using the python command
 ```
-python findSmallestNumberUsingNoneDatatype.py
+python formatted_strings.py
 ```
