@@ -64,3 +64,15 @@ cd 5.\ Strings/
 ```
 python formatted_strings.py
 ```
+
+## Built With
+
+* [Python] (https://www.python.org/) - Python is an interpreted, high-level, general-purpose programming language.
+
+## Authors
+
+* **Vasu Goel** (https://github.com/VasuGoel)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VasuGoel/python/blob/master/LICENSE) file for details
