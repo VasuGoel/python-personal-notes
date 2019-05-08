@@ -1,3 +1,5 @@
+# We use Class to define new types. These types can have methods that we define in the body of class and attributes that we can set anywhere in the program
+
 class Point:
     def move(self):
         print('Moving point...')
