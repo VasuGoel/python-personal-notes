@@ -9,7 +9,7 @@ print(f'numbers.append(20): {numbers}')
 numbers.insert(1, 3)    # '1' is the index in which the number '3' is added in the list
 print(f'numbers.insert(1, 3): {numbers}')
 
-# Remove item form the list
+# Remove item from the list
 numbers.remove(20)
 print(f'numbers.remove(20): {numbers}')
 
