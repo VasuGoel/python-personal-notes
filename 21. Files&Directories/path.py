@@ -30,6 +30,8 @@ else:
 path = Path('../')
 print(f'\nIterating over {path.glob("*.*")} ...\n')
 
+# print('path.glob(*)') lists out all directories and files
+
 print('List of files in the previous directory ...')
 for file in path.glob('*.*'):
     print(file)
