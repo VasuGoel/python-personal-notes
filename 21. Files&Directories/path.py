@@ -24,3 +24,12 @@ if path.exists():
     print(path.rmdir())     # Returns None
 else:
     print('No such directory exists.')
+
+
+# List all files by iterating over a glob object (The glob module finds all the pathnames matching a specified pattern according to the rules used by the Unix shell, although results are returned in arbitrary order.)
+path = Path('../')
+print(f'\nIterating over {path.glob("*.*")} ...\n')
+
+print('List of files in the previous directory ...')
+for file in path.glob('*.*'):
+    print(file)
