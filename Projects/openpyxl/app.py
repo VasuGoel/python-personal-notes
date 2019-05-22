@@ -11,9 +11,9 @@ print(f'\nProcessing {sheet} from \'{wb}\'... \n')
 for row in range(2, sheet.max_row + 1):
     cell = sheet.cell(row, 3)       # sheet['a1'] is another way to access a cell
     print(cell.value)
-    correct_price = cell.value * 0.9
-    correct_price_cell = sheet.cell(row, 4)
-    correct_price_cell.value = correct_price
+    discounted_price = cell.value * 0.9
+    discounted_price_cell = sheet.cell(row, 4)
+    discounted_price_cell.value = discounted_price
 
 
 
