@@ -1,4 +1,4 @@
-# Python
+# Python Personal Notes
 
 Python programs and personal notes taken on the grind to learn Python.
 
