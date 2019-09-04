@@ -39,7 +39,7 @@ alias pip=pip3
 python
 ```
 
-* If you see something like this, then you're good to go!
+* If you see something like this, you're good to go!
 ```
 Python 3.7.3 (v3.7.3:ef4ec6ed12, Mar 25 2019, 16:52:21) 
 [Clang 6.0 (clang-600.0.57)] on darwin
@@ -49,11 +49,11 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 #### 2. Using python to run the scripts/programs in the cloned repository
 
-* Unzip the repository downloaded from https://github.com/VasuGoel/python
+* Unzip the repository downloaded from https://github.com/VasuGoel/python-personal-notes
 
-* Open terminal, change your directory to point to coursera-py4e folder. Assuming the repository downloaded in your Downloads folder.
+* Open terminal, change your directory to point to python-personal-notes folder. Assuming the repository downloaded in your Downloads folder.
 ```
-cd ~/Downloads/python
+cd ~/Downloads/python-personal-notes
 ```
 * Pick a specific week and cd into it, like
 ```
@@ -75,4 +75,4 @@ python formatted_strings.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/VasuGoel/python/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VasuGoel/python-personal-notes/blob/master/LICENSE) file for details
